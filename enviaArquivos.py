@@ -28,7 +28,7 @@ def main():
 
                 if instalador not in mensagem_enviada:
                     time.sleep(1)
-                    saudacao = f"Olá, {instalador}! Tudo bem?"
+                    saudacao = f"Bom dia, {instalador}! Tudo bem?"
                     enviar_mensagem(driver, saudacao)
 
                 time.sleep(0.5)
@@ -121,9 +121,9 @@ def main():
                 mensagem_enviada.append(instalador)
 
             time.sleep(2)
-            print("Arquivos enviados - fechando em 60 segundos...")
+            print("Arquivos enviados - fechando em 30 segundos...")
 
-            time.sleep(60)
+            time.sleep(30)
             close_driver(driver)
 
         else:
