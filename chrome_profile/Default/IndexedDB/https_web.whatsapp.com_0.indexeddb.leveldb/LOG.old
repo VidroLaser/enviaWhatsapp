@@ -1,0 +1,15 @@
+2024/07/23-15:50:58.418 55f0 Reusing MANIFEST C:\Users\Producao\Downloads\enviaWhatsapp\chrome_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/23-15:50:58.419 55f0 Recovering log #64
+2024/07/23-15:50:58.451 55f0 Reusing old log C:\Users\Producao\Downloads\enviaWhatsapp\chrome_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000064.log 
+2024/07/23-15:50:58.973 4cd4 Level-0 table #70: started
+2024/07/23-15:50:59.018 4cd4 Level-0 table #70: 445602 bytes OK
+2024/07/23-15:50:59.020 4cd4 Delete type=0 #64
+2024/07/23-15:50:59.021 4cd4 Manual compaction at level-0 from '\x00\x1c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/07/23-15:51:01.319 55f0 Compacting 1@1 + 2@2 files
+2024/07/23-15:51:01.480 55f0 Generated table #71@1: 48280 keys, 2213741 bytes
+2024/07/23-15:51:01.535 55f0 Generated table #72@1: 25587 keys, 844560 bytes
+2024/07/23-15:51:01.535 55f0 Compacted 1@1 + 2@2 files => 3058301 bytes
+2024/07/23-15:51:01.537 55f0 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/07/23-15:51:01.537 55f0 Delete type=2 #66
+2024/07/23-15:51:01.537 55f0 Delete type=2 #67
+2024/07/23-15:51:01.537 55f0 Delete type=2 #70

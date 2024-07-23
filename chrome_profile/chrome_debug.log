@@ -1,0 +1,8 @@
+[21632:8196:0723/155243.840:WARNING:chrome_main_delegate.cc(742)] This is Chrome version 126.0.6478.128 (not a warning)
+[21632:8196:0723/155243.947:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[21632:8196:0723/155243.992:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[21632:8196:0723/155245.355:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'battery'.", source:  (0)
+[21632:8196:0723/155245.355:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'usb-unrestricted'.", source:  (0)
+[21632:8196:0723/155245.451:INFO:CONSOLE(133)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v3/yu/r/VzvE3jpGTxg.js?_nc_x=Ij3Wp8lg5Kz (133)
+[21632:8196:0723/155309.051:INFO:CONSOLE(22)] "Warning: TT: undefined function: 32", source: https://web.whatsapp.com/static_resources/webworker/pdf-worker/ (22)
+[21632:8196:0723/155432.034:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
